@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="Wandering-Trader-Recording_data" version="1.3.0" audacityversion="2.4.2" sel0="74.1827885744" sel1="76.3343310658" vpos="0" h="73.3297327957" zoom="302.4421221034" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Wandering-Trader-Recording_data" version="1.3.0" audacityversion="2.4.2" sel0="11.5030273422" sel1="76.3343310621" vpos="0" h="9.4232905793" zoom="302.4421221034" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="ARTIST" value="AnonJr"/>
-		<tag name="TITLE" value="Death"/>
+		<tag name="TITLE" value="Full Selection"/>
 		<tag name="COMMENTS" value="Part of my Wandering Trader Voices Resource Pack"/>
 		<tag name="ALBUM" value="Wandering Trader Voices"/>
 		<tag name="YEAR" value="2021"/>
@@ -122,7 +122,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Enderman Teleports" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="Enderman Teleports" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="67.19632787" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="40383">
 				<waveblock start="0">

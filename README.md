@@ -6,10 +6,12 @@ It's still a little "Version 1"-ish resource pack at this juncture. I never real
 # Install
 Download the [latest release](https://github.com/AnonJr/Minecraft-Wandering-Trader-Voices/releases) `.zip` file to your `resourcepacks` folder, and add it like you would any other resource pack.
 
-Alternate download locations:
+Published locations:
 
- * [Archive.org](https://archive.org/details/Custom_Villager_Sounds-v1.0.0)
- * [Planet Minecraft](https://www.planetminecraft.com/texture-pack/custom-villager-sounds/)
+ * [YouTube](https://youtu.be/X3CFnlJ2ebk)
+ * [AnonJr.com](https://www.anonjr.com/2021/06/Custom-Wandering-Trader-Sounds-1.0.0.html)
+ * [Archive.org](https://archive.org/details/Custom_Wandering_Trader_Voices-v1.0.0)
+ * [Planet Minecraft](https://www.planetminecraft.com/texture-pack/custom-wandering-trader-voices/)
 
 # Sound Information
 I wanted to get into building Data and Resource Packs for Minecraft, this is the second entry with a simple sound change on the Wandering Traders. Looking at the [Wiki page](https://minecraft.fandom.com/wiki/Wandering_Trader), there are a few sounds to put together:
