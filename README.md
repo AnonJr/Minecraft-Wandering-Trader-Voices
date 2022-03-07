@@ -9,8 +9,8 @@ Download the [latest release](https://github.com/AnonJr/Minecraft-Wandering-Trad
 Published locations:
 
  * [YouTube](https://youtu.be/X3CFnlJ2ebk)
- * [AnonJr.com](https://www.anonjr.com/2021/06/Custom-Wandering-Trader-Sounds-1.0.0.html)
- * [Archive.org](https://archive.org/details/Custom_Wandering_Trader_Voices-v1.0.0)
+ * [AnonJr.com](https://www.anonjr.com/2022/03/Custom-Wandering-Trader-Sounds-1.0.2.html)
+ * [Archive.org](https://archive.org/details/Custom_Wandering_Trader_Voices-v1.0.2)
  * [Planet Minecraft](https://www.planetminecraft.com/texture-pack/custom-wandering-trader-voices/)
 
 # Sound Information
